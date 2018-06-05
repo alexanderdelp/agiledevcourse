@@ -16,7 +16,7 @@
 ## SonarQube
 * [SonarQube](https://www.sonarqube.org/)
 * [SonarCloud Projects](https://sonarcloud.io/projects)
-## Scrum.org
+## Scrum
 * [Scrum.org](https://www.scrum.org/)
 * [Scrum Alliance](https://www.scrumalliance.org/)
 * [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
