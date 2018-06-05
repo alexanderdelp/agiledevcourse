@@ -1,4 +1,8 @@
-Schreibe eine Methode, welche die Zahlen von 1 bis 100 ausgibt.  
-Statt jeder Zahl, die durch 3 teilbar ist, soll "Fizz" ausgegeben werden.  
-Statt jeder Zahl, die durch 5 teilbar ist, soll "Buzz" ausgegeben werden.  
-Statt jeder Zahl, die durch 3 und 5 teilbar ist, soll "FizzBuzz" ausgegeben werden.
+# FizzBuzz
+Schreibe eine Funktion, die die Zahlen von 1 bis 100 zurückgibt. Manche Zahlen sollen dabei allerdings übersetzt werden:
+
+Für Vielfache von 3 gibt „Fizz“ aus.
+Für Vielfache von 5 gib „Buzz“ aus.
+Für Vielfache von 3 und 5 gib „FizzBuzz“ aus.
+
+[Clean Code Developer School](http://ccd-school.de/coding-dojo/function-katas/fizzbuzz/)
