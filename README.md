@@ -21,3 +21,9 @@
 * [Scrum Alliance](https://www.scrumalliance.org/)
 * [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 * [Scrum Developer Open](https://www.scrum.org/open-assessments/scrum-developer-open)
+## Coding Katas
+* [Clean Code Developer School Katas](http://ccd-school.de/coding-dojo/)
+* [Activities](https://www.coderetreat.org/pages/facilitating/activity-catalog/)
+* [Constraints](https://drive.google.com/drive/folders/0B3idvASFqaEbN2RkNDYyYjktYTlkZi00ZjFiLWFmMDEtNjJhYTBkYzM2ZDlh)
+* [cyber-dojo.org](http://cyber-dojo.org) (Browser-based Coding)
+* [Code Retreat Überblick](https://www.it-agile.de/wissen/agiles-engineering/code-retreat/)
