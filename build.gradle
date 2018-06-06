@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    //id 'jacoco'
+    //id 'pmd'
+}
+
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    testImplementation( 'org.junit.jupiter:junit-jupiter-api:5.2.0' )
+    testRuntimeOnly( 'org.junit.jupiter:junit-jupiter-engine:5.2.0' )
+}
+
+test {
+    useJUnitPlatform()
+}
+
+//jacocoTestCoverageVerification {
+//    violationRules {
+//        rule {
+//            limit {
+//                minimum = 0.96
+//            }
+//        }
+//    }
+//}
+
+//pmd {
+//    toolVersion = '6.4.0'
+//    ruleSetConfig = resources.text.fromFile( 'ruleset.xml' )
+//    ignoreFailures = true
+//    pmdTest.enabled = false
+//}
